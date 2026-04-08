@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+div {
+    padding: 0x;
+    margin: 0px;
+}
+
+body {
+    padding: 0x;
+    margin: 0px;
+}
